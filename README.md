@@ -7,7 +7,17 @@ Our product is a social media website exclusive to University of Saskatchewan st
 
 [Usask_Connect.pdf](https://github.com/Nevilllf/usask_connect/files/10081098/Usask_Connect.pdf)
 
-<img width="1052" alt="Screen Shot 2022-11-23 at 11 40 27 PM" src="https://user-images.githubusercontent.com/96790212/203703107-8682d0de-f646-449c-95f5-a02f25866608.png">
+
+<img width="730" alt="Screen Shot 2022-11-23 at 11 43 49 PM" src="https://user-images.githubusercontent.com/96790212/203703552-2cade08f-208f-45a3-94c8-872784f6c99c.png">
+
+<img width="743" alt="Screen Shot 2022-11-23 at 11 44 33 PM" src="https://user-images.githubusercontent.com/96790212/203703566-1bab49c5-d319-4a22-9c4e-57a72bfb89a4.png">
+
+<img width="743" alt="Screen Shot 2022-11-23 at 11 44 11 PM" src="https://user-images.githubusercontent.com/96790212/203703607-41094c3b-8b77-401d-b783-b72bae523948.png">
+
+
+
+
+
 
 > **Installation Process**
 
