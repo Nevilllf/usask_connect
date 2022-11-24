@@ -7,7 +7,7 @@
 
 - ### Download pyhton3/anaconda
 - ### pip install flask
-- ### pip install python-socketio
+- ### pip install python_socketio
 - ### Open terminal and clone the given url:  git@github.com:Nevilllf/usask_connect.git
 - ### Now use following command on your mac/windows terminal or use PyCharm terminal
 - ### cd usask_connect
