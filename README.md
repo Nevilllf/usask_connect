@@ -5,6 +5,7 @@ Our product is a social media website exclusive to University of Saskatchewan st
 
 **Usask Connect is a flask app written in python for backend and HTML, CSS and JavaScript for backend**
 
+[Usask_Connect.pdf](https://github.com/Nevilllf/usask_connect/files/10081098/Usask_Connect.pdf)
 
 > **Installation Process**
 
