@@ -19,7 +19,7 @@ Our product is a social media website exclusive to University of Saskatchewan st
 
 
 
-> **Installation Process**
+## Installation Process
 
 
 - ### Download pyhton3/anaconda
