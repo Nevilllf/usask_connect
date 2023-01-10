@@ -6,6 +6,7 @@ Our product is a social media website exclusive to University of Saskatchewan st
 **Usask Connect is a flask app written in python for backend and HTML, CSS and JavaScript for backend**
 
 [Usask_Connect.pdf](https://github.com/Nevilllf/usask_connect/files/10081098/Usask_Connect.pdf)
+<img width="738" alt="Screen Shot 2022-12-06 at 3 22 25 PM" src="https://user-images.githubusercontent.com/96790212/211477915-c5dbdae7-3bc3-4d0d-b50c-9678e171b0a2.png">
 
 
 <img width="730" alt="Screen Shot 2022-11-23 at 11 43 49 PM" src="https://user-images.githubusercontent.com/96790212/203703552-2cade08f-208f-45a3-94c8-872784f6c99c.png">
